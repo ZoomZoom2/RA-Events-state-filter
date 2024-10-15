@@ -1,6 +1,6 @@
 # 2. Домашнее задание к лекции «События и состояния»
 
-[![Build status](https://ci.appveyor.com/api/projects/status/pkayiq9qqnfvekx4?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ra-components-store-class) [[GithubPages](https://zoomzoom2.github.io/RA-Components-store-class)]
+[![Build status](https://ci.appveyor.com/api/projects/status/f6dwk8sq8aujvwgc?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ra-events-state-filter) [[GithubPages](https://zoomzoom2.github.io/RA-Events-state-filter)]
 
 ---
 
