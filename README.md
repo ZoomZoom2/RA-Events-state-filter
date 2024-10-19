@@ -1,7 +1,10 @@
 # Домашнее задание к лекции «События и состояния»
-Портфолио с фильтрами
 
 [![Build status](https://ci.appveyor.com/api/projects/status/f6dwk8sq8aujvwgc?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ra-events-state-filter) [[GithubPages](https://zoomzoom2.github.io/RA-Events-state-filter)]
+
+---
+
+Портфолио с фильтрами
 
 ===
 
