@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RA-Events-state-filter/static/css/main.81e7861c.css",
+    "main.js": "/RA-Events-state-filter/static/js/main.b9d7ca83.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Events-state-filter/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Events-state-filter/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "static/media/place200x290_1.png": "/RA-Events-state-filter/static/media/place200x290_1.36f3159ed57d72010c5d.png",
+    "static/media/place200x290.png": "/RA-Events-state-filter/static/media/place200x290.6a372a5310c90efa7194.png",
+    "static/media/place200x290_2.png": "/RA-Events-state-filter/static/media/place200x290_2.90ab69af2c3f2941d117.png",
+    "static/media/place200x290_3.png": "/RA-Events-state-filter/static/media/place200x290_3.067bb232afcb90cd8ed8.png",
+    "static/media/Triangle_350x197_1.jpg": "/RA-Events-state-filter/static/media/Triangle_350x197_1.ae7efb315f9f6f5cf6f3.jpg",
+    "static/media/Triangle_350x197.jpg": "/RA-Events-state-filter/static/media/Triangle_350x197.e6b63a437c529e434078.jpg",
+    "static/media/transmission.jpg": "/RA-Events-state-filter/static/media/transmission.8b5162e70ad6baa23f19.jpg",
+    "index.html": "/RA-Events-state-filter/index.html",
+    "main.81e7861c.css.map": "/RA-Events-state-filter/static/css/main.81e7861c.css.map",
+    "main.b9d7ca83.js.map": "/RA-Events-state-filter/static/js/main.b9d7ca83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e7861c.css",
+    "static/js/main.b9d7ca83.js"
+  ]
+}
